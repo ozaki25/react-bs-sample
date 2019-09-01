@@ -1,0 +1,3 @@
+[submodule "react-bootstrap-component"]
+	path = react-bootstrap-component
+	url = https://github.com/ozaki25/react-bootstrap-component.git

@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
-    "react-bootstrap-component": "git+https://github.com/ozaki25/react-bootstrap-component.git",
+    "react-bootstrap-component": "https://github.com/ozaki25/react-bootstrap-component.git",
     "react-dom": "^16.9.0",
     "react-router": "^5.0.1",
     "react-router-dom": "^5.0.1",

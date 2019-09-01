@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+	sharedrepository = 1
+[user]
+        name = "aion0721"
+        email = rudolf.aion@gmail.com
+[remote "origin"]
+        url = git@github.com:aion0721/react-bs-sample.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+[receive]
+	denyNonFastforwards = true
